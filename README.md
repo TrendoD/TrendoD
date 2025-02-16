@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @TrendoD
-- 👀 I’m interested in Data Analyst and Cybher Security!
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in Data Science and Cyber Security!
+- 🌱 I’m currently learning Python for Machine learning and Scripting purpose
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me @trendodipu Instagram
-- 😄 Pronouns: He
-- ⚡ Fun fact: Im very like pro in programming
+- ⚡ Fun fact: Wanna be better 
 
 <!---
 TrendoD/TrendoD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
